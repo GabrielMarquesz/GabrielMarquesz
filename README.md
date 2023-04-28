@@ -1,8 +1,10 @@
 
 ## OLÁ! eu sou o Gabriel, desenvolvedor FRONT_END.
-
+<img src="https://criaravatar.com/wp-content/plugins/svg-avatars-generator/data/temp-avatars/svgA5321734506987315.png" target="_blank"  height="200px">
 <P> SEJA BEM VINDO(a)
 
+   <a href=""><b>clique aqui</b></a> Para acessar meu portfólio! 
+     
 
 <strong><h4>Hard Skills:</h4></strong>
    <div style="display: inline_block"><br>
@@ -20,11 +22,14 @@
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gb_marquesz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielmarquesz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   <br>
- <img src="https://criaravatar.com/wp-content/plugins/svg-avatars-generator/data/temp-avatars/svgA5321734506987315.png" target="_blank"  height="200px"> 
+
+
+  
 </div>
 
+ 
